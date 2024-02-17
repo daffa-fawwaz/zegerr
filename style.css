@@ -741,7 +741,7 @@ footer .footer-content {
      }
 
      .content-comment h1 {
-        font-size: 30px;
+        display: none;
      }
 
      .content-comment .coment-1 {

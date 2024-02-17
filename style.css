@@ -616,7 +616,7 @@ footer .footer-content {
     }
 
     /* ABOUT */
-    .about {
+    .about { 
         height: 100vh;
         margin-bottom: 43.75rem;
 
@@ -731,16 +731,18 @@ footer .footer-content {
 
      .comment {
         /* background-color: #1c32ff; */
-        margin-top: 800px;
+        margin-top: 700px;
      }
 
      .content-comment {
         flex-direction: column;
         margin-top: 70px;
+        /* background-color: #cfad01; */
      }
 
      .content-comment h1 {
         font-size: 30px;
+        /* margin-top: 40px; */
      }
 
      .content-comment .coment-1 {

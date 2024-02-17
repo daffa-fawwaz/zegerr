@@ -736,27 +736,23 @@ footer .footer-content {
 
      .content-comment {
         flex-direction: column;
-        margin-top: 70px;
+        /* margin-top: 70px; */
         /* background-color: #cfad01; */
      }
 
      .content-comment h1 {
         font-size: 30px;
-        /* margin-top: 40px; */
      }
 
      .content-comment .coment-1 {
         width: 280px;
         height: 100px;
+        margin-top: 50px;
      }
 
      .content-comment .coment-2 {
         width: 280px;
         height: 100px;
-     }
-
-     .content-comment h1 {
-        margin-top: -50px;
      }
 
      /* FOOTER */
